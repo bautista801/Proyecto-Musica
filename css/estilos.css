@@ -431,6 +431,11 @@
         margin: auto;
     }
 
+    .hr-footer {
+        transform: rotate(90deg);
+        width: 300px;
+    }
+
 
 
         /* -------------------   NAVBAR   ------------------ */
@@ -731,24 +736,28 @@
         margin: auto;
         margin-top: 15px;
         color: rgb(241, 241, 227);
+        font-size: large;
     }
 
     .bad-bunny {
         margin: auto;
         margin-top: 15px;
         color: rgb(241, 241, 227);
+        font-size: large;
     }
 
     .imagine-dragons {
         margin: auto;
         margin-top: 15px;
         color: rgb(241, 241, 227);
+        font-size: large;
     }
 
     .borgore {
         margin: auto;
         margin-top: 15px;
         color: rgb(241, 241, 227); 
+        font-size: large;
     }
 
     /* ------------------------------ */
@@ -792,6 +801,7 @@
         margin: auto;
         margin-top: 15px;
         color: rgb(241, 241, 227);
+        font-size: large;
     }
 
 
@@ -799,12 +809,14 @@
         margin: auto;
         margin-top: 15px;
         color: rgb(241, 241, 227);
+        font-size: large;
     }
 
     .lofi-girl {
         margin: auto;
         margin-top: 15px;
         color: rgb(241, 241, 227);
+        font-size: large;
     }
 
 
@@ -814,6 +826,7 @@
         margin: auto;
         margin-top: 15px;
         color: rgb(241, 241, 227);
+        font-size: large;
     }
 
 
@@ -823,6 +836,7 @@
         margin: auto;
         margin-top: 15px;
         color: rgb(241, 241, 227);
+        font-size: large;
     }
 
 
@@ -835,11 +849,14 @@
         margin-top: 80px;
         display: flex;
         justify-content: space-evenly;
+        font-size: xx-large;
     }
 
     .texto-footer {
-        font-size: x-small;
-        margin: auto 0;
+        font-size: large;
+        text-align: center;
+        margin: auto 0 auto 50px;
+
     }
 
     footer > div {
@@ -852,7 +869,7 @@
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
-        margin: 0 30px 20px;
+        margin: 0 50px 20px 0;
     }
 
     .lista-redes {
@@ -950,6 +967,11 @@
         height: 130px;
         border-radius: 50%;
         margin: auto;
+    }
+
+    .hr-footer {
+        width: 90%;
+        transform: rotate(0deg);
     }
 
 
@@ -1110,24 +1132,28 @@
         margin: auto;
         margin-top: 15px;
         color: rgb(241, 241, 227);
+        font-size: large;
     }
 
     .bad-bunny {
         margin: auto;
         margin-top: 15px;
         color: rgb(241, 241, 227);
+        font-size: large;
     }
 
     .imagine-dragons {
         margin: auto;
         margin-top: 15px;
         color: rgb(241, 241, 227);
+        font-size: large;
     }
 
     .borgore {
         margin: auto;
         margin-top: 15px;
         color: rgb(241, 241, 227); 
+        font-size: large;
     }
 
     /* ------------------------------ */
@@ -1167,6 +1193,7 @@
         margin: auto;
         margin-top: 15px;
         color: rgb(241, 241, 227);
+        font-size: large;
     }
 
 
@@ -1174,12 +1201,14 @@
         margin: auto;
         margin-top: 15px;
         color: rgb(241, 241, 227);
+        font-size: large;
     }
 
     .lofi-girl {
         margin: auto;
         margin-top: 15px;
         color: rgb(241, 241, 227);
+        font-size: large;
     }
 
 
@@ -1189,6 +1218,7 @@
         margin: auto;
         margin-top: 15px;
         color: rgb(241, 241, 227);
+        font-size: large;
     }
 
 
@@ -1198,6 +1228,7 @@
         margin: auto;
         margin-top: 15px;
         color: rgb(241, 241, 227);
+        font-size: large;
     }
 
 
